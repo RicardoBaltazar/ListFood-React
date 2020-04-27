@@ -1,0 +1,169 @@
+
+.jumbotron{
+    height: 250px;
+    width: 100%;
+    background-color: #707070;
+}
+
+.titles{
+    color: white;
+    text-align: center;
+}
+.title1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.title2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 0px;
+}
+
+.title3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.btnMenu{
+    height: 40px;
+    width: 160px;
+    background-color: white;
+    border-radius: 3px;
+    margin: 10px;
+    box-shadow: 0.3px 0.3px black;
+}
+.btnMenu:hover{
+    cursor: pointer;
+    background-color: rgb(238, 236, 236);
+}
+.btnMenu:active{
+    background-color: rgb(59, 59, 59);
+}   
+
+.btnMenuFont{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #888888;
+}
+
+/*///////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+.titleProducts{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 18px;
+    color: #888888;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.products{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+    margin-left: 60px;
+}
+
+.img{
+    width: 200px;
+    height: 150px;
+    margin-bottom: 0px;
+    border: 1px solid #707070;
+}
+
+.product{
+    height: 150px;
+    width: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #888888;
+    margin: 20px;
+    font-weight: 12px;
+}
+.btnP1{
+    height: 20px;
+    width: 200px;
+    border: solid 1px #707070;
+    color: #808080;
+    background-color: white;
+    border-radius: 4px;
+    opacity: 1;
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
+.btnP1:hover{
+    cursor: pointer;
+    background-color: rgb(238, 236, 236);
+}
+.btnP1:active{
+    background-color: rgb(59, 59, 59);
+}
+
+/*///////////////////////////////////*/
+
+.form{
+    margin: 60px;
+    flex-wrap: wrap;
+}
+.formP1{
+    font-size: 18px;
+    font-weight: bold;
+    color: #888888;
+}
+.formP2{
+    font-size: 14px;
+    color: #888888;
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.inputForm{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.btnToShare{
+    display: flex;
+    justify-content: center;
+}
+.btnForm{
+    border: solid 1px #707070;
+    border-radius: 4px;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: #888888;
+    opacity: 1;
+}
+.btnForm:hover{
+    cursor: pointer;
+    background-color: rgb(238, 236, 236);
+}
+.btnForm:active{
+    background-color: rgb(59, 59, 59);
+}
+/*///////////////////////////////*/
+
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color: #707070;
+}
+.footerParagraph{
+    color: white;
+    padding-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
