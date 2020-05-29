@@ -41,8 +41,7 @@ a:hover{
     color: #2e94d0;
     
 }
-#products{
-    font-style: italic;
+
 }
 .imgMenu{
     float: right;
@@ -157,17 +156,4 @@ hr{
     90%  {background-color: rgb(173, 107, 173);}
     100%  {background-color: #efeef1;}
 }
-
-
-
-
-
-
-
-
-
-
-/*Pag products/*
-
-
 
