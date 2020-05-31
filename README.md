@@ -12,9 +12,9 @@ Background animation when clicking the get started button.
 
 ## technologies used  
 
-###HTML  
+### HTML  
 
-###CSS  
+### CSS  
 
-###Javascript  
+### Javascript  
 
